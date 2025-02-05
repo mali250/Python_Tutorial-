@@ -1,1 +1,1 @@
-# Tutorials-Python-In-Hindi
+# Tutorials-Python
